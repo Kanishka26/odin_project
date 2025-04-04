@@ -1,0 +1,25 @@
+body{
+    width:600px;
+    margin:0 auto;
+}
+
+.one{
+    background-color: darksalmon;
+    border: 1px solid black;
+    margin:12px;
+    padding:32px
+
+}
+.two{
+    margin-bottom:48px;
+    background-color: darkseagreen;
+    border: 1px solid blueviolet;
+
+}
+.three{
+    margin-left: 400px;
+    background-color: yellow;
+    border: 1px solid black;
+    padding:32px;
+
+}

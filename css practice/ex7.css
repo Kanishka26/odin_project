@@ -1,0 +1,35 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+  }
+.card{
+    background-color: white;
+    width: 400px;
+    margin:16px auto;
+    padding:12px;
+
+}
+.a{
+    background-color: aquamarine;
+    padding: 8px;
+    margin:12px;
+    font-weight:bold;
+}
+.B{
+    background-color: aquamarine;
+    padding: 8px;
+    margin:12px;
+    text-align: center;
+}
+.C{
+    background-color: aquamarine;
+    padding: 8px;
+    margin:12px;
+    text-align: center;
+}
+button{
+    color: white;
+    display: block;
+    margin:0 auto;
+    padding:8px;
+}

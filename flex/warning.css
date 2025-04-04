@@ -1,0 +1,65 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  background: #aaa;
+  color: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal {
+  background: white;
+  width: 480px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 16px rgba(0,0,0,.2);;
+  margin:50px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+.a{
+  background-color: aqua;
+  display:flex;
+  justify-content: space-between;
+  margin:10px
+}
+
+
+.icon {
+  text-align: center;
+  color: royalblue;
+  font-size: 50px;
+  font-weight: 700;
+  background: lavender;
+  width: 47px;
+  height: 47px;
+  border-radius: 90%;
+  margin:10px;
+  flex-shrink: 0;
+}
+
+.close {
+  background: #eee;
+  border-radius: 50%;
+  color: #888;
+  font-weight: 400;
+  font-size: 16px;
+  height: 24px;
+  width: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #eee;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
+

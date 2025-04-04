@@ -1,0 +1,38 @@
+.header  {
+    font-family: monospace;
+    background: papayawhip;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: auto;
+    border:2px solid white
+  }
+.logo{
+    font-size: 40px;
+    font-weight: bold;
+    color:aquamarine;
+    background-color: white;
+    margin:10px;
+}
+.left{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+a{
+    display: inline-flex;
+    margin:10px;
+    flex:1;
+    padding:20px;
+    background-color: white;
+    font-size:20px;
+    
+}
+.right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
